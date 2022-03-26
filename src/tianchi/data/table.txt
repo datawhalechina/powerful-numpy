@@ -1,4 +1,0 @@
-organization	established	ceo
-Google	1998	Sundar Pichai
-Microsoft	1975	Satya Nadella
-Nokia	1865	Rajeev Suri
