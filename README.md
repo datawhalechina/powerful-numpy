@@ -3,7 +3,7 @@
 `巨硬的NumPy` 教程包括两部分：《从小白到入门》和《从入门到精通》。
 
 - 《从小白到入门》旨在帮助没有基础的同学快速掌握 `numpy` 的常用功能，保证日常绝大多数场景的使用。
-- 《从入门到精通》目的是帮助有进一步需要的同学对 `numpy` 进行更深入地了解，主要包括基本介绍、原理分析、基本操作和例子。
+- 《从入门到熟练》目的是帮助有进一步需要的同学对 `numpy` 进行更深入地了解，主要包括基本概念、操作，原理分析和例子。
 
 设计思想：
 
@@ -80,7 +80,7 @@
     - [进阶题目](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/introduction/ch-all.ipynb#进阶题目)
 - [文献和资料](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/introduction/ch-all.ipynb#文献和资料)
 
-## 从入门到精通
+## 从入门到熟练
 
 开发中……
 
