@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-src/tianchi/NumPy/model/*
+src/tianchi/
 *.pptx
 
 # C extensions
