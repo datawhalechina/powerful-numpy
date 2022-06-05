@@ -140,7 +140,7 @@
     - CuPy
     - Sparse
     - Dask
-    - xarray
+    - Xarray
 
 
 ## Response How To Teach And Learn
