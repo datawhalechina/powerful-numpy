@@ -21,6 +21,8 @@
 
 ### 大纲
 
+>已列出重要接口。
+
 - [创建和生成](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/introduction/ch-all.ipynb#创建和生成)
     - [从 python 列表或元组创建](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/introduction/ch-all.ipynb#从-python-列表或元组创建)
     - [使用 arange 生成](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/introduction/ch-all.ipynb#使用-arange-生成)
@@ -90,60 +92,57 @@
 
 ### 大纲
 
-- 核心概念
-    - 常量
-    - 数据类型
-    - 结构化数组
-    - 时间数组
-    - 数组对象
-    - 自定义数组容器
-    - 子类化与标准子类
-- 操作变换
-    - 广播
-    - 通函数
-    - 基本操作
-    - 排序搜索
-    - 集合操作
-    - 函数式编程
-    - 测试
-- 数值计算
-    - 数学函数
-    - 数值分析
-    - 导数和微积分
-    - 多项式
-    - 逻辑运算
-    - 二进制运算
-    - 字符串
-
-- 线性代数
-    - 数组乘法
-    - 基础概念
-    - 矩阵运算
-    - Einsum
-    - Padding
-    - 卷积
-    - 掩码运算
-
-- 概率统计
-    - 基本指标
-    - 相关性
-    - 柱状图
-    - 计数
-    - 随机生成器
-    - 随机排列
-    - 随机分布
-
-- 不止NumPy
-    - Numba
-    - JAX
-    - Cython
-    - CuPy
-    - Sparse
-    - Dask
-    - Xarray
+- [核心概念](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb)
+    - [常量](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb#常量)
+    - [数据类型](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb#数据类型)
+    - [结构化数组](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb#结构化数组)
+    - [时间数组](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb#时间数组)
+    - [数组对象](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb#数组对象)
+    - [自定义数组容器](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb#自定义数组容器)
+    - [子类化与标准子类](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch01-core_concepts.ipynb#子类化与标准子类)
+- [操作变换](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb)
+    - [广播](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb#广播)
+    - [通函数](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb#通函数)
+    - [基本操作](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb#基本操作)
+    - [排序搜索](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb#排序搜索)
+    - [集合操作](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb#集合操作)
+    - [函数式编程](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb#函数式编程)
+    - [测试](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch02-manipulation.ipynb#测试)
+- [数值计算](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb)
+    - [数学函数](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb#数学函数)
+    - [数值分析](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb#数值分析)
+    - [导数和微积分](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb#导数和微积分)
+    - [多项式](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb#多项式)
+    - [逻辑运算](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb#逻辑运算)
+    - [二进制运算](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb#二进制运算)
+    - [字符串](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch03-numeric_calculation.ipynb#字符串)
+- [线性代数](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb)
+    - [数组乘法](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb#数组乘法)
+    - [基础概念](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb#基础概念)
+    - [矩阵运算](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb#矩阵运算)
+    - [Einsum](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb#Einsum)
+    - [Padding](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb#Padding)
+    - [卷积](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb#卷积)
+    - [掩码运算](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch04-linear_algebra.ipynb#掩码运算)
+- [概率统计](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb)
+    - [基本指标](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb#基本指标)
+    - [相关性](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb#相关性)
+    - [柱状图](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb#柱状图)
+    - [计数](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb#计数)
+    - [随机生成器](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb#随机生成器)
+    - [随机排列](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb#随机排列)
+    - [随机分布](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch05-probability_statistics.ipynb#随机分布)
+- [不止NumPy](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb)
+    - [Numba](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb#Numba)
+    - [JAX](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb#JAX)
+    - [Cython](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb#Cython)
+    - [CuPy](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb#CuPy)
+    - [Sparse](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb#Sparse)
+    - [Dask](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb#Dask)
+    - [Xarray](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/skilled/ch06-morethan_numpy.ipynb#Xarray)
 
 
-## Response How To Teach And Learn
+## 社区反馈
 
 
 反馈来自社区。格式：`微信昵称：意见`。谢谢诸位反馈。
