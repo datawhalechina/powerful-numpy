@@ -10,8 +10,9 @@
 - 两部分侧重点不同的教程
 - 章节互相独立可单独学习
 
-
 ## 从小白到入门
+
+B站配套视频：[巨硬的Numpy：从小白到入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ym4y1U7at/?share_source=copy_web&vd_source=cea86f777e9ba73f1a486c90773fcb03)
 
 ### 原则
 
@@ -83,6 +84,8 @@
 - [文献和资料](https://nbviewer.org/github/datawhalechina/powerful-numpy/blob/main/src/introduction/ch-all.ipynb#文献和资料)
 
 ## 从入门到熟练
+
+智海课程链接：[巨硬的 NumPy - 课程 - Mo](https://aiplusx.momodel.cn/classroom/class/658d2c90891ad518e0274bba?activeKey=section)
 
 ### 原则
 
